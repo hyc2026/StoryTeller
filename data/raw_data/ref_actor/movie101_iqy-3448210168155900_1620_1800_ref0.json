@@ -1,0 +1,57 @@
+{
+  "Company Commander": [
+    [
+      0,
+      [
+        0.0,
+        0.0,
+        0.33,
+        0.33
+      ]
+    ]
+  ],
+  "Telegraph Operator from Lizhuang": [
+    [
+      0,
+      [
+        0.33,
+        0.0,
+        0.67,
+        0.33
+      ]
+    ]
+  ],
+  "Telegraph Operator from Zhangzhuang": [
+    [
+      0,
+      [
+        0.67,
+        0.0,
+        1.0,
+        0.33
+      ]
+    ]
+  ],
+  "Camp Leader": [
+    [
+      0,
+      [
+        0.0,
+        0.33,
+        0.33,
+        0.67
+      ]
+    ]
+  ],
+  "Young Soldier Yang Decai": [
+    [
+      0,
+      [
+        0.33,
+        0.33,
+        0.67,
+        0.67
+      ]
+    ]
+  ]
+}
