@@ -1,0 +1,46 @@
+{
+  "Japanese Officer": [
+    [
+      0,
+      [
+        0.0,
+        0.0,
+        0.33,
+        0.33
+      ]
+    ]
+  ],
+  "An old foreign man in a suit and tie": [
+    [
+      0,
+      [
+        0.33,
+        0.0,
+        0.67,
+        0.33
+      ]
+    ]
+  ],
+  "Jiaochuan": [
+    [
+      0,
+      [
+        0.67,
+        0.0,
+        1.0,
+        0.33
+      ]
+    ]
+  ],
+  "Middle-aged man getting off the car with a German old man": [
+    [
+      0,
+      [
+        0.0,
+        0.33,
+        0.33,
+        0.67
+      ]
+    ]
+  ]
+}

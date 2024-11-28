@@ -1,0 +1,8 @@
+/checkpoints
+/data/audio
+/data/frame
+/data/video
+**/__pycache__
+**/.ipynb_checkpoints
+*.csv
+/temp

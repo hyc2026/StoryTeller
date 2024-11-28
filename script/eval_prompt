@@ -1,0 +1,9 @@
+[Movie Plot Description]
+{text}
+
+[Multiple-Choice Question]
+{question}
+
+Using the information in the [Movie Plot Description], please answer the [Mulitple-Choice Question]. Only one of options (A, B, C, D, E) is correct. Your response should follow this format:
+[Reason]: Explain your reasoning.
+[Answer]: Generate only one character from the options (A, B, C, D, E).
