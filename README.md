@@ -30,11 +30,6 @@ A step-by-step introduction to the process of the entire Long Video Description 
 
 > The dataset split statistics in the paper are incorrect. Please refer to `data/raw_data/detailed_split.json` for accuracy. "The final MovieStory101 dataset includes 5,210 / 140 / 632 clips in the training / development / testing split." We will make corrections in the next version of the paper.
 
-### Video Files
-https://huggingface.co/datasets/hyc2026/MovieStory101
-
-You can apply for permission on huggingface or contact `hyc@bytedance.com` to add permission directly (with your huggingface user name).
-
 ### 1. Generate the frames and audio files by processing the video.
 ```bash
 python script/preprocess/preprocess.py
@@ -173,17 +168,3 @@ The output of each model can be found in `result`
 
 ## Checkpoints
 Coming soon.
-
-## Citation
-Pleae cite us as:
-
-```BibTeX
-@misc{he2024storyteller,
-      title={StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification}, 
-      author={Yichen He and Yuan Lin and Jianchao Wu and Hanchong Zhang and Yuchen Zhang and Ruicheng Le},
-      year={2024},
-      eprint={2411.07076},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
